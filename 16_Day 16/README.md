@@ -12,15 +12,15 @@ Today, I explored the **NumPy Library** for efficient numerical computations in 
 
 ---
 
-##  Files:
+## 📂 Folder Structure:
+```plaintext
 AI-DataScience-Journey/
-├── Day 16/
-│   ├── 01_numpy_basics.py
-│   ├── 02_numpy_array_operations.py
-│   ├── 03_numpy_indexing_slicing.py
-│   └── README.md
-
-
+└── Day 16/
+    ├── 01_numpy_basics.py
+    ├── 02_numpy_array_operations.py
+    ├── 03_numpy_indexing_slicing.py
+    └── README.md
+```
 ---
 
 ##  Assignments Completed:
