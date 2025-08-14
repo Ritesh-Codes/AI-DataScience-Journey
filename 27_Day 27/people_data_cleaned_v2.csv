@@ -1,0 +1,11 @@
+Name,Age,City,Salary,Joining Date
+Alice,25.0,mumbai,50000.0,2021-05-10
+Bob,30.0,delhi,60000.0,2020-07-15
+Charlie,,banglore,55000.0,2022-03-20
+David,45.0,mumbai,,2023-01-05
+Eva,28.0,,65000.0,2019-09-18
+Frank,35.0,delhi,58000.0,2021-11-25
+Alice,25.0,mumbai,50000.0,2021-05-10
+Grace,40.0,pune,72000.0,2020-12-30
+,29.0,delhi,62000.0,2022-07-01
+Hank,,pune,71000.0,2023-02-14

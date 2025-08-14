@@ -1,0 +1,11 @@
+Name,Age,City,Salary
+Alice,25.0,Mumbai,50000.0
+Bob,30.0,Delhi,60000.0
+Charlie,,Banglore,55000.0
+David,45.0,Mumbai,
+Eva,28.0,,65000.0
+Frank,35.0,Delhi,58000.0
+Alice,25.0,Mumbai,50000.0
+Grace,40.0,Pune,72000.0
+,29.0,Delhi,62000.0
+Hank,,Pune,71000.0
